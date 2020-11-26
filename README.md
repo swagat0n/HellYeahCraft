@@ -15,4 +15,4 @@ Addon 2 vom 25.11.20
 https://mega.nz/file/IUlUmDqQ#X64yl6s5eHnKv-tD1NK_-W2YxMq-cPYJgCPHqd2oTHc
 
 Addon 3 vom 26.11.20
-https://www.curseforge.com/minecraft/mc-mods/baubley-heart-canisters/download/2682612
+https://media.forgecdn.net/files/2721/67/baubley-heart-canisters-1.12.2-2.0.3.jar
