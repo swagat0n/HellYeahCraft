@@ -16,3 +16,7 @@ https://mega.nz/file/IUlUmDqQ#X64yl6s5eHnKv-tD1NK_-W2YxMq-cPYJgCPHqd2oTHc
 
 Addon 3 vom 26.11.20
 https://media.forgecdn.net/files/2721/67/baubley-heart-canisters-1.12.2-2.0.3.jar
+
+Addon 4 vom 29.11.20
+https://mega.nz/file/ZUdUnBwC#dqyc-F0YokD2R_ZjKxAnYSkuezMbPUzqGowBpJOMog4
+WICHTIG: CodeChickenLib3.2.2 löschen und neue Version einfügen!
